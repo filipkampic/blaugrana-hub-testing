@@ -19,7 +19,7 @@ public class BaseTest {
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 
-        driver.get("http://localhost:5500");
+        driver.get("https://filipkampic.github.io/blaugrana-hub/");
     }
 
     @AfterMethod
