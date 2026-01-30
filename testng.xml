@@ -5,7 +5,7 @@
 
     <test name="UI Tests">
         <packages>
-            <package name="com.blaugrana.tests"/>
+            <package name="tests"/>
         </packages>
     </test>
 
